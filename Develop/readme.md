@@ -1,9 +1,9 @@
-# ASDASFAD
-![license](https://img.shields.io/badge/license-MIT-green.svg)
+# TOREADORTONOTREAD
+![license](https://img.shields.io/badge/license-Apache-green.svg)
 
 ## Descriptions
 
-FSD
+IDK
 
 ## Table of Content
 
@@ -16,29 +16,29 @@ FSD
 
 ## Installation
 
-GSDGSDGSD
+Github, green, cli, git clone link
 
 ## Usage
 
-GSDGSD
+To generate a professional readme
 
 ## License
 
-MIT
+Apache
 
 
 ## Contribution
 
-SDGSDGS
+Andrew
 
 ## Test
 
-DGSDGSDG
+not at the very moment
 
 ## Questions
 
 If there are any questions here are my contacts:
 
-[github.com/GSDGSDG](https://github.com/GSDGSDG)
+[github.com/JuicinessJ](https://github.com/JuicinessJ)
 
-GMAIL>COM
+Jesse@gmail.com
