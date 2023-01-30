@@ -1,9 +1,9 @@
-# TOREADORTONOTREAD
+# TROTNR
 ![license](https://img.shields.io/badge/license-Apache-green.svg)
 
 ## Descriptions
 
-IDK
+TROTNR
 
 ## Table of Content
 
@@ -11,34 +11,32 @@ IDK
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Feature](#feature)
-- [Issue](#issue)
+- [Test](#test)
 
 ## Installation
 
-Github, green, cli, git clone link
+TROTNR
 
 ## Usage
 
-To generate a professional readme
+TROTNR
+
+## Credit
+
+undefined
 
 ## License
 
 Apache
 
-
-## Contribution
-
-Andrew
-
 ## Test
 
-not at the very moment
+TROTNR
 
 ## Questions
 
 If there are any questions here are my contacts:
 
-[github.com/JuicinessJ](https://github.com/JuicinessJ)
+[github.com/TROTNR](https://github.com/TROTNR)
 
-Jesse@gmail.com
+TROTNR

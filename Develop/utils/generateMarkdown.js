@@ -20,8 +20,7 @@ ${data.descriptions}
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Feature](#feature)
-- [Issue](#issue)
+- [Test](#test)
 
 ## Installation
 
@@ -31,14 +30,13 @@ ${data.install}
 
 ${data.usage}
 
+## Credits
+
+${data.contribution}
+
 ## License
 
 ${data.license}
-
-
-## Contribution
-
-${data.contribution}
 
 ## Test
 

@@ -32,7 +32,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contribution',
+        name: 'credit',
         message: 'Who will you like to give credit for contributing to this app?',
     },
     {
