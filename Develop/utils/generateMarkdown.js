@@ -32,7 +32,7 @@ ${data.usage}
 
 ## Credits
 
-${data.contribution}
+${data.credit}
 
 ## License
 
